@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 	else if(cmp[1] == 0)
 		printf("uneo si RECT\n");
 	
-
+	int broj  = 5;
 
 	return 0;
 }
